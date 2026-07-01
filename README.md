@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether a loan borrower will default or not. Built using Python, scikit-learn, and Streamlit.
 
-**Live Demo:** [Open App](https://creditriskmodelingongermancreditdataset.streamlit.app/)
+**Live Demo:** [Open App](https://riskmodel.streamlit.app/)
 
 ## About
 
